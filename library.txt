@@ -1,0 +1,80 @@
+1001 The Art of Programming John Doe 29.99 0
+1002 Data Structures and Algorithms Jane Smith 39.95 1
+1003 Introduction to Algorithms Alice Johnson 49.99 0
+1004 C Programming Basics Bob Anderson 19.99 1
+1005 Database Management Essentials Mary White 59.95 0
+1006 Web Development Fundamentals Mark Davis 29.99 1
+1007 Operating Systems Mastery Emily Brown 39.95 0
+1008 Software Engineering Principles Richard Miller 49.99 1
+1009 Computer Networks Guide Sarah Wilson 19.99 0
+1010 Python Programming Advanced Michael Taylor 59.95 1
+1011 Java Programming Basics Jennifer Jones 34.99 0
+1012 Artificial Intelligence Concepts Brian Wilson 44.95 1
+1013 JavaScript Fundamentals Emma Johnson 24.99 0
+1014 Machine Learning Basics Daniel Miller 54.95 1
+1015 HTML and CSS Essentials Olivia Davis 14.99 0
+1016 Cybersecurity Principles Liam White 64.95 1
+1017 Mobile App Development Sophia Martin 29.99 0
+1018 Computer Graphics Techniques Ethan Thomas 39.95 1
+1019 Software Testing Strategies Chloe Brown 19.99 0
+1020 Network Security Fundamentals Aiden Smith 49.95 1
+1021 Ruby Programming Basics Grace Taylor 24.99 0
+1022 iOS App Development Basics Noah Wilson 54.95 1
+1023 Data Analytics Techniques Ava Davis 14.99 0
+1024 Cloud Computing Principles James Johnson 64.95 1
+1025 Computer Vision Fundamentals Lily Martin 29.99 0
+1026 Android App Development Basics Samuel Thomas 39.95 1
+1027 Swift Programming Basics Zoey Martin 19.99 0
+1028 Big Data Analytics Aiden Smith 49.95 1
+1029 Kotlin Programming Basics Mia Brown 24.99 0
+1030 Cybersecurity Fundamentals Benjamin Wilson 54.95 1
+1031 React.js Essentials Addison Taylor 14.99 0
+1032 Node.js Fundamentals Alexander Johnson 64.95 1
+1033 PHP Programming Basics Ella Thomas 29.99 0
+1034 Software Architecture Principles Carter Brown 39.95 1
+1035 Python Data Science Basics Scarlett Martin 19.99 0
+1036 Docker and Kubernetes Basics Oliver Wilson 49.95 1
+1037 Frontend Web Development Emma Davis 24.99 0
+1038 Backend Web Development Ethan Johnson 54.95 1
+1039 Flutter App Development Basics Isabella Thomas 14.99 0
+1040 TypeScript Programming Basics William Brown 64.95 1
+1041 MATLAB Programming Essentials Victoria Wilson 29.99 0
+1042 Blockchain Technology Fundamentals Benjamin Johnson 39.95 1
+1043 Rust Programming Basics Addison Thomas 19.99 0
+1044 Go Programming Fundamentals Eleanor Martin 49.95 1
+1045 Vue.js Essentials Christopher Smith 24.99 0
+1046 Scala Programming Basics Penelope Taylor 54.95 1
+1047 R Programming Basics Andrew Davis 14.99 0
+1048 Julia Programming Essentials Scarlett Wilson 64.95 1
+1049 Shell Scripting Fundamentals Grace Brown 29.99 0
+1050 DevOps Principles and Practices Oliver Johnson 39.95 1
+1051 GraphQL Essentials Samuel Brown 19.99 0
+1052 AWS Cloud Computing Basics Zoey Martin 49.95 1
+1053 Unity Game Development Basics Alexander Thomas 24.99 0
+1054 Unreal Engine Fundamentals Mia Wilson 54.95 1
+1055 Kotlin Mobile App Development Basics Emma Martin 14.99 0
+1056 Linux System Administration Basics Aiden Brown 64.95 1
+1057 Computer Ethics and Privacy Ella Davis 29.99 0
+1058 Internet of Things (IoT) Principles Carter Wilson 39.95 1
+1059 React Native Essentials Lily Taylor 19.99 0
+1060 Xamarin App Development Basics Chloe Johnson 49.95 1
+1061 Ruby on Rails Fundamentals Noah Davis 24.99 0
+1062 Data Warehousing and Mining Basics Sophia Wilson 54.95 1
+1063 Embedded Systems Principles Liam Martin 14.99 0
+1064 Quantum Computing Fundamentals Isabella Brown 64.95 1
+1065 Augmented Reality (AR) Basics Oliver Thomas 29.99 0
+1066 Virtual Reality (VR) Essentials Samuel Smith 39.95 1
+1067 3D Game Development with Unity Zoey Brown 19.99 0
+1068 Natural Language Processing (NLP) Basics Ella Wilson 49.95 1
+1069 Flutter Mobile App Development Basics Benjamin Davis 24.99 0
+1070 TypeScript Web Development Fundamentals Scarlett Johnson 54.95 1
+1071 Julia Data Science Basics Aiden Taylor 14.99 0
+1072 WebAssembly (Wasm) Essentials William Wilson 64.95 1
+1073 Microservices Architecture Principles Addison Martin 29.99 0
+1074 Computer Vision with OpenCV Basics Eleanor Davis 39.95 1
+1075 Cloud Security Fundamentals Andrew Martin 19.99 0
+1076 Natural Language Processing (NLP) with Python Christopher Wilson 49.95 1
+1077 Quantum Machine Learning Basics Penelope Davis 24.99 0
+1078 Augmented Reality (AR) Development Sophia Taylor 54.95 1
+1079 Virtual Reality (VR) Development Oliver Martin 14.99 0
+1080 3D Printing Technology Fundamentals Emma Smith 64.95 1
